@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm TaNviiR... a Web Developer and Designer
+### I'm TaNviiR RiiYaD
+
+My Work was Study
+But now study is Off for Corona Viras
 
 
 ### Now Trying to Learning python
