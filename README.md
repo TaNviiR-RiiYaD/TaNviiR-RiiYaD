@@ -3,7 +3,7 @@
 ### I'm TaNviiR RiiYaD
 
 My Work was Study
-But now study is Off for Corona Viras
+But now study is Off for Corona Virus
 
 
 ### Now Trying to Learning python
