@@ -13,8 +13,8 @@
 
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Attacker">Attacker - Robi Airtel CircLe SMS Bomber For Robi Airtel CircLe User.</a>
-<li> <a href="https://github.com/TaNviiR-RiiYaD/Hoichoi">Sms Bombing - A SMS Bomber Tools For Any Operator Sim Card.</a>
-<li> <a href="https://github.com/TaNviiR-RiiYaD/setup">First Time Termux Activation Tools.</a>
+<li> <a href="https://github.com/TaNviiR-RiiYaD/Hoichoi">Hoichoi - A SMS Bomber Tools For Any Operator Sim Card.</a>
+<li> <a href="https://github.com/TaNviiR-RiiYaD/setup">setup - First Time Termux Activation Tools.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/TaNviiR-RiiYaD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=TaNviiR-RiiYaD&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
