@@ -13,7 +13,7 @@
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at AliYa MaDraSha</i></li>
 <li> 😪 <i>Love iS Reader</i></li>
-<li> 💔 <i>In a Relationship</i></li>
+<li> 💔 <i>Alone Boy</i></li>
 <li> 🐍 <i>Trying to learn Python & Other programming language</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
