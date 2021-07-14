@@ -28,6 +28,6 @@
 <a href="https://github.com/TaNviiR-RiiYaD"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=TaNviiR-RiiYaD&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/TaNviiR-RiiYaD"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/MrTaNviiR"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/MrTaNviiR"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://github.com/TaNviiR-RiiYaD"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
+<a href="https://fb.com/MrTaNviiR"><img align="left" title="Facebook" alt="Facebook" width="30px" src="facebook.png" /></a>
+<a href="https://m.me/MrTaNviiR"><img align="left" title="Messenger" alt="Messenger" width="30px" src="messenger.png" /></a>
