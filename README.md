@@ -21,6 +21,17 @@ src="https://img.shields.io/badge/Developer%20%3A-TaNviiR--RiiYaD-blue">
 <li> 💔 <i>Alone Boy</i></li>
 <li> 🐍 <i>Trying to learn Python & Other programming language</i></li>
 
+###
+
+<p/>
+  <img src="https://img.shields.io/badge/Total%20Using-Language-brightgreen">
+<p align="center">
+  <img src="https://img.shields.io/badge/1.-Python-cyan">
+  <img src="https://img.shields.io/badge/2.-JavaScript-green">
+  <img src="https://img.shields.io/badge/3.-HTML-yellowgreen">
+  <img src="https://img.shields.io/badge/4.-Shell-yellow">
+  <img src="https://img.shields.io/badge/5.-PHP-blue">
+
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Attacker">Attacker - Robi Airtel CircLe SMS Bombing tools for Robi Airtel CircLe User.</a>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Hoichoi">Hoichoi - a Sms Bombing tools for All Operator Sim Card.</a>
