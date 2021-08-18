@@ -31,6 +31,7 @@ src="https://img.shields.io/badge/Developer%20%3A-TaNviiR--RiiYaD-blue">
   <img src="https://img.shields.io/badge/3.-HTML-yellowgreen">
   <img src="https://img.shields.io/badge/4.-Shell-yellow">
   <img src="https://img.shields.io/badge/5.-PHP-blue">
+  <img src="https://img.shields.io/badge/6.-Java-cyan">
 
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Attacker">Attacker - Robi Airtel CircLe SMS Bombing tools for Robi Airtel CircLe User.</a>
