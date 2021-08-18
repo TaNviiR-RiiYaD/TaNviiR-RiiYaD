@@ -1,6 +1,6 @@
 <!-- Github README -->
 
-</p>
+<p align="center">
   <img
 src="https://img.shields.io/badge/Developer%20%3A-TaNviiR--RiiYaD-blue">
 </p>
