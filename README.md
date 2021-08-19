@@ -32,7 +32,7 @@ src="https://img.shields.io/badge/Developer%20%3A-TaNviiR--RiiYaD-blue">
   <img src="https://img.shields.io/badge/4.-Shell-yellow">
   <img src="https://img.shields.io/badge/5.-PHP-blue">
   <img src="https://img.shields.io/badge/6.-Java-cyan">
-
+  <img src="https://img.shields.io/badge/7.-Ruby-orange">
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Attacker">Attacker - Robi Airtel CircLe SMS Bombing tools for Robi Airtel CircLe User.</a>
 <li> <a href="https://github.com/TaNviiR-RiiYaD/Hoichoi">Hoichoi - a Sms Bombing tools for All Operator Sim Card.</a>
