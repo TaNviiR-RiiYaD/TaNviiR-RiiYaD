@@ -4,6 +4,8 @@
   <img
 src="https://img.shields.io/badge/Developer%20%3A-TaNviiR--RiiYaD-blue">
 </p>
+<a><img src="https://github.com/TaNviiR-RiiYaD/something/blob/main/image/TaNviiR.jpg"  
+alt="bomberthon"/></a>
 <p align="center"><a href="https://github.com/TaNviiR-RiiYaD">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TaNviiR-RiiYaD&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
