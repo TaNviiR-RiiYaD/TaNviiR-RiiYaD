@@ -50,7 +50,7 @@ alt="bomberthon"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/TaNviiR-RiiYaD"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=TaNviiR-RiiYaD&color=blueviolet&style=flat-square"></a>
-
+<a href="https://github.com/TaNviiR-RiiYaD/something/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TaNviiR-RiiYaD/something?label=Watchers&color=blue&style=flat-square"></a>
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/TaNviiR-RiiYaD"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
 <a href="https://fb.com/MrTaNviiR"><img align="left" title="Facebook" alt="Facebook" width="30px" src="facebook.png" /></a>
